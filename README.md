@@ -1,4 +1,4 @@
-# 4dTV Calculation Script
+# 4dTV-onestep Calculation Script
 
 This script calculates the four-fold degenerate transversion (4dTV) values for homologous gene pairs. The 4dTV value is a measure of the transversions at four-fold degenerate sites, providing insights into the evolutionary distances between gene pairs.
 
