@@ -75,6 +75,7 @@ geneB1 geneB2 0.456
 ### Visualization
 
 A bar plot showing the 4dTV values for each gene pair.
+![Example 4dTV Plot](https://github.com/liushuotong/4dTV-onestep/blob/main/Figure_1.png)
 
 ## Explanation of 4dTV
 
@@ -94,4 +95,4 @@ This script is released under the MIT License.
 
 ## Contact
 
-For any questions or issues, please contact [liushuotong0218@gmail.com].
+For any questions or issues, please contact [liushuotong0218@gmail.com](mailto:liushuotong0218@gmail.com).
