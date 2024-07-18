@@ -89,7 +89,7 @@ def process_gene_pair(args):
     # Run Muscle for alignment
     aligned_fasta_content = run_muscle(temp_fasta_content.read())
     
-    # 读取对齐结果
+    # read aligned result
     aligned_fasta_content = StringIO(aligned_fasta_content)
     try:
         alignment = AlignIO.read(aligned_fasta_content, "fasta")
